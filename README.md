@@ -1,1 +1,4 @@
 # Marco's Notes
+## Summary 
+
+This repository contains all of the notes taken by [Marco](https://github.com/MacroBiz) for the [Lighthouse Labs](https://www.lighthouselabs.ca) Web Development Bootcamp.
